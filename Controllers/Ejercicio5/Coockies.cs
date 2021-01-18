@@ -1,3 +1,4 @@
+using System.Timers;
 using System.Net;
 using System.Collections.Generic;
 using System;
@@ -35,6 +36,7 @@ namespace EJERCICIOS.Controllers
 
 
             ViewData["coockie"] = collection["nombre"] + " " + collection["Correo"] + " " + collection["Fecha"];
+
 
 
             return View();

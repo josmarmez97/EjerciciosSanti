@@ -1,9 +1,4 @@
 using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
-using EJERCICIOS.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -20,15 +15,26 @@ namespace EJERCICIOS.Controllers
         {
             try
             {
+                HttpContext.Session.SetString("miSesion", collection["Usuario"] + " " + collection["Contrasenia"] + " " + Convert.ToString(collection["Tiempo"]) + " ");
 
-                HttpContext.Session.SetString("mySession", collection["Usuario"] + collection["Contrasenia"] + Convert.ToInt32(collection["Tiempo"]));
 
-                return View();
+                if (HttpContext.Session.Get("miSesion") != null)
+                {
+
+                    ViewData["Usuario"] = collection["Usuario"];
+
+                    ViewData["Tiempo"] = Convert.ToInt32(collection["Tiempo"]);
+                    return View();
+                }
+                else
+                {
+                    return RedirectToAction("Index", "Home");
+                }
             }
             catch (System.Exception ex)
             {
                 Console.WriteLine(ex.Message);
-                return RedirectToAction("Index", "Home")
+                return RedirectToAction("Index", "Home");
             }
         }
     }

@@ -1,0 +1,50 @@
+<div class="text-center">
+    <h1>Bienvenido : @ViewData["Usuario"]</h1>
+</div>
+
+<div>
+    <div class="container">
+        <div class="row">
+            <label id="initialTimeLabel">Tu sesión expira en: </label>
+        </div>
+        <div class="row">
+            <p id="timeLeft"><span id="timer"></span> minutos</p>
+        </div>
+    </div>
+    <script>
+        var time = '@ViewData["Tiempo"]';
+
+        function startTimer(duration, display) {
+            var timer = duration, minutes, seconds;
+            setInterval(function () {
+                minutes = parseInt(timer / 60, 10);
+                seconds = parseInt(timer % 60, 10);
+
+                minutes = minutes < 10 ? "0" + minutes : minutes;
+                seconds = seconds < 10 ? "0" + seconds : seconds;
+
+                display.textContent = minutes + ":" + seconds;
+
+                if (--timer < 0) {
+                    timer = duration;
+                }
+                if (minutes == 0 && seconds == 0) {
+
+                    location.href = "https://localhost:5001/Session/RegistroS";
+                }
+            }, 1000);
+        }
+
+        window.onload = function () {
+            var minutes = 60 * time,
+                display = document.querySelector('#timer');
+            startTimer(minutes, display);
+        };            
+    </script>
+
+</div>
+
+<br>
+<br>
+<br>
+<br>

@@ -1,43 +1,41 @@
 <div class="text-center">
-    <h1>Registro de usuarios sesion</h1>
+    <h1>Registro de usuarios sesión</h1>
 </div>
-<form asp-action="session" class="row g-3" method="POST">
+
+
+<form asp-action="Sessiones" class="col g-3 needs-validation" novalidate>
 
     <div class="col-md-4">
-        <label for="validationServer01" class="form-label">Usuario</label>
-        <input type="text" class="form-control is-valid" name="Usuario" value="Mark" required>
-        <div class="valid-feedback">
-            Looks good!
-        </div>
+        <label for="validationServer01" class="form-label">Usuario:</label>
+        <input type="text" class="form-control" name="Usuario" id="Nombre" placeholder="Nombre de Usuario" required>
+
     </div>
 
 
     <div class="col-md-4">
-        <label for="validationServer02" class="form-label">contraseña</label>
-        <input type="text" class="form-control is-valid" name="Contrasenia" value="Otto" required>
-        <div class="invalid-feedback">
-            Mínimo 8 caracteres.
-            Tenga al menos una letra en mayúscula.
-            Tenga al menos un carácter especial (@@, %, $, #, &)
-        </div>
+        <label for="validationServer02" class="form-label">Contraseña:</label>
+        <input type="text" class="form-control" name="Contrasenia" oninput="comprobarPass()" id="ContraseniaS"
+            placeholder="Min. 8 Caracteres" required>
+
+        <span id="validacion3"></span>
     </div>
 
 
     <div class="col-md-6">
-        <label for="validationServer03" class="form-label">Tiempo de sesion</label>
-        <input type="number" class="form-control is-invalid" name="Tiempo" aria-describedby="validationServer03Feedback"
-            required>
-        <div id="validationServer03Feedback" class="invalid-feedback">
-            Please provide a valid city.
-        </div>
-    </div>
+        <label for="validationServer03" class="form-label">Tiempo de sesion:</label>
+        <input type="number" class="form-control" name="Tiempo" id="TiempoS" onkeypress="return soloNumeros(event)"
+            min="1" max="59" aria-describedby="validationServer03Feedback"
+            placeholder="Tiempo en minutos de cierre de sesión " required>
 
-    <div class="col-12">
-        <button class="btn btn-primary" type="submit">Submit form</button>
+    </div>
+    <br>
+    <div class="col-12" id="enviar">
+        <button class="btn btn-primary" type="submit">Siguiente</button>
     </div>
 
 
 </form>
+</div>
 <br>
 <br>
 <br>

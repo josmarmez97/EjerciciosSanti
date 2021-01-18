@@ -1,3 +1,9 @@
+document.getElementById("ContraseniaS").addEventListener("keydown", teclear);
+$(document).on("keydown keyup", "#TiempoS", function(event) { 
+    if(event.which==38 || event.which==40){
+        event.preventDefault();
+    }
+});
 
 function soloLetras(e) 
                 {                                        
@@ -19,12 +25,32 @@ function soloLetras(e)
                          if (letras.indexOf(tecla) == -1 && !tecla_especial) {return false;}                        
                 };
 
+    function soloNumeros(e) 
+                    {                                        
+                            key = e.keyCode || e.which;
+                            tecla = String.fromCharCode(key).toLowerCase();
+                            
+                            letras = "1234567890";
+                            especiales = " ";
+                            tecla_especial = false
+                            for (var i in especiales) 
+                            {
+                                if (key == especiales[i] ) 
+                                {
+                                    tecla_especial = true;                                   
+                                    break;                                
+                                }
+                                
+                            }
+                                if (letras.indexOf(tecla) == -1 && !tecla_especial) {return false;}                        
+                    };
+
 function soloCorreo(e) 
                 {                                        
                         key = e.keyCode || e.which;
                         tecla = String.fromCharCode(key).toLowerCase();
                         
-                        letras = " áéíóúabcdefghijklmnñopqrstuvwxyzABCDEFGHIJKLMNÑOPQRSTVWXYZÁÉÍÓÚÜ@_-.";
+                        letras = " áéíóúabcdefghijklmnñopqrstuvwxyzABCDEFGHIJKLMNÑOPQRSTVWXYZÁÉÍÓÚÜ@_-.1234567890";
                         especiales = " ";
                         tecla_especial = false
                         for (var i in especiales) 
@@ -40,8 +66,10 @@ function soloCorreo(e)
                 };                
 
 
- document.getElementById("Nombre").addEventListener("keydown", teclear);        
- document.getElementById("Correo").addEventListener("keydown", teclear);        
+document.getElementById("Nombre").addEventListener("keydown", teclear);        
+document.getElementById("Correo").addEventListener("keydown", teclear);
+
+document.getElementsByName("UsuarioS").addEventListener("keydown", teclear);
  
  var flag = false;
             var teclaAnterior = "";
@@ -72,3 +100,27 @@ function soloCorreo(e)
            }; 
            return comprobacion;
        };
+
+
+        function comprobarPass(pass){
+        var pass = document.getElementById('ContraseniaS').value;           
+        var patron = new RegExp("^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{8,}$");
+           var comprobacion = patron.test(pass);
+           if (comprobacion != false) 
+           {
+                document.getElementById('validacion3').innerHTML = ' Correcto';
+                document.getElementById('validacion3').hidden;               
+                document.getElementById('validacion3').style.color = 'green';
+                document.getElementById("enviar").style.visibility = 'visible';
+           }
+           else
+           {
+               
+               document.getElementById('validacion3').innerHTML = 'Mínimo 8 caracteres, que tenga al menos una letra en mayúscula y minúscula y que tenga al menos un carácter especial (@@, %, $, #, &)'; 
+                document.getElementById('validacion3').style.color = 'red';
+                document.getElementById("enviar").style.visibility = 'hidden';
+           }; 
+           return comprobacion;
+       };
+
+

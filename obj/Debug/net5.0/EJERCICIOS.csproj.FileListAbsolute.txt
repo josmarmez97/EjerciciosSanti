@@ -725,3 +725,5 @@ D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Agenda\Agenda
 D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Agenda\RegistroNuevo.cshtml.g.cs
 D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Coockies\RegistroCoockies.cshtml.g.cs
 D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Coockies\CreateCoockie.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Session\RegistroS.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Session\Sessiones.cshtml.g.cs
