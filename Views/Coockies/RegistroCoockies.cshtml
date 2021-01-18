@@ -1,0 +1,52 @@
+<div class="text-center">
+    <h1>Registro de Coockies</h1>
+</div>
+<div>
+    <h3>Rellenar los datos</h3>
+    <form asp-action="CreateCoockie" class="row g-3 needs-validation" novalidate>
+
+        <div class="col-md-4">
+            <label for="validationCustom01" class="form-label">Nombre:</label>
+            <input type="text" class="form-control" id="Nombre" name="Nombre" onkeypress="return soloLetras(event)"
+                placeholder="Nombre completo" required>
+            <div class="invalid-feedback">
+                Campo requerido
+            </div>
+
+        </div>
+
+        <div class="col-md-4">
+            <label for="validationCustom02" class="form-label">Correo:</label>
+            <input type="email" class="form-control" id="Correo" Name="Correo" onkeypress="return soloCorreo(event)"
+                oninput="comprobarCorreo()" placeholder="Correo electrónico" required>
+            <div class="invalid-feedback">
+                Correo no válido
+                <span id="validacion2">
+                </span>
+            </div>
+
+        </div>
+
+        <div class="col-md-4">
+            <label for="validationCustomUsername" class="form-label">Expiración de cookie:</label>
+            <div class="input-group has-validation">
+                <input type="datetime-local" name="Fecha" min=@ViewData["Fecha"] class="form-control"
+                    aria-describedby="inputGroupPrepend" required>
+                <div class="invalid-feedback">
+                    Poner un horario
+                </div>
+            </div>
+        </div>
+        <br>
+
+        <div class="col-12">
+            <br>
+            <button class="btn btn-primary" type="submit">Enviar</button>
+        </div>
+
+    </form>
+
+</div>
+
+<br>
+<br>

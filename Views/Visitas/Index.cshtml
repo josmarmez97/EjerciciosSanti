@@ -1,0 +1,51 @@
+@{
+    ViewData["Title"] = "Libro de visitas";
+    //var x = ViewData["Datos"] as Array;
+}
+@model List<EJERCICIOS.Models.Visitas>
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <a asp-action="Registrar">Registrar un Comentario</a>
+</div>
+<div>
+
+    <table class="table table-striped">
+
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Nombre</th>
+                <th>Pais</th>
+                <th>Comentario</th>
+                <th>Accion</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+
+                <tr>
+                    <td>@item.ID</td>
+                    <td>@item.Nombre</td>
+                    <td>@item.Pais</td>
+                    <td>@item.Comentario</td>
+                    <td>
+                        <a class="btn btn-primary" asp-action="Editar" asp-route-id="@item.ID">Editar</a>
+                        <a class="btn btn-danger" asp-action="Eliminar" asp-route-id="@item.ID">Eliminar</a>
+                    </td>
+
+                </tr>
+            }
+
+
+        </tbody>
+
+    </table>
+
+
+
+</div>
+</div>

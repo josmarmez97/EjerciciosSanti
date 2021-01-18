@@ -1,0 +1,70 @@
+@{
+    ViewData["Title"] = "Editar una Visita";
+    var comEncontrado = ViewData["Comentario"] as Visitas;
+}
+
+
+<h1>@ViewData["Title"]</h1>
+
+
+<form action="/Editar/ComEditado" class="f_Calendario" method="post" class="row g-3 needs-validation" novalidate>
+    <div class="col-md-4">
+        <input type="hidden" name="ID" class="form-control" value="@comEncontrado.ID">
+    </div>
+
+    <br>
+    <div class="col-md-4">
+        <label for="validationCustom01" class="form-label">Nombre:</label>
+        <input type="text" class="form-control" name="Nombre" onkeypress="return soloLetras(event)"
+            value="@comEncontrado.Nombre" required>
+
+        <div class="invalid-feedback">
+            Inválido!
+        </div>
+    </div>
+    <br>
+
+    <div class="col-md-4">
+
+        <label for="validationCustom04" class="form-label">País</label>
+        <br>
+        <select class="form-select" name="Pais" required>
+            <option disabled selected value="">Selecciona...</option>
+            <option value="Madagascar">Madagascar</option>
+            <option value="Malasia">Malasia</option>
+            <option value="Malawi">Malawi</option>
+            <option value="Maldivas">Maldivas</option>
+            <option value="Malta">Malta</option>
+            <option value="Malí">Malí</option>
+            <option value="Marruecos">Marruecos</option>
+            <option value="Mauricio">Mauricio</option>
+            <option value="Mauritania">Mauritania</option>
+            <option value="Micronesia (Estados Federados de)">Micronesia</option>
+            <option value="Mongolia">Mongolia</option>
+            <option value="Montenegro">Montenegro</option>
+            <option value="Mozambique">Mozambique</option>
+            <option value="Myanmar">Myanmar</option>
+            <option value="México">México</option>
+            <option value="Mónaco">Mónaco</option>
+
+        </select>
+        <div class="invalid-feedback">
+            Por Favor, selecciona un país.
+        </div>
+    </div>
+    <br>
+    <div class="col-md-4">
+        <label for="validationCustom01" class="form-label">Comentario:</label>
+        <input type="text" class="form-control" name="Comentario" value="@comEncontrado.Comentario" required>
+        <div class="invalid-feedback">
+            Inválido!
+        </div>
+    </div>
+    <br>
+
+    <button class="btn btn-warning" type="submit">Guardar</button>
+
+    <br>
+    <a asp-action="Index" class="btn btn-success">Volver</a>
+    <br>
+</form>

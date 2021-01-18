@@ -1,0 +1,86 @@
+@{
+    ViewData["Title"] = "Registro de nuevo Evento";
+    var tiempo = ViewData["Fecha"];
+    var hora = ViewData["Hora"];
+}
+
+<h1>@ViewData["Title"]</h1>
+
+
+<form asp-action="RegistroNuevo" asp-controller="RegistroEvento" class="row g-3 needs-validation" novalidate
+    style="display: flex; flex-flow: column; align-items: center; background-color: #f9d423; border-radius: 10px;">
+    <br>
+    <label for="" class="form-label">Fecha:</label>
+    <div class="col-10">
+        <input class="form-control" type="date" name="Fecha" min=@tiempo required>
+        <br>
+        <small>Las Horas de Oficina son de 9:00 a 17:00</small>
+    </div>
+    <div class="invalid-feedback">
+        Por favor, proporciona un horario dentrol horario establecido.
+    </div>
+
+    <br>
+    <label for="" class="form-label">Hora de Inicio:</label>
+    <div class="col-10">
+        <input type="time" class="form-control" name="TiempoInicio" min="09:00" max="17:00" required>
+        <br>
+        <small>Las Horas de Oficina son de 9:00 a 17:00</small>
+    </div>
+    <div class="invalid-feedback">
+        Por favor, proporciona un horario dentrol horario establecido.
+    </div>
+
+    <br>
+    <label for="" class="form-label">Hora de Fin</label>
+    <div class="col-10">
+        <input type="time" class="form-control" name="TiempoFin" min="09:00" max="17:00" required>
+        <br>
+        <small>Las Horas de Oficina son de 9:00 a 17:00</small>
+    </div>
+    <div class="invalid-feedback">
+        Por favor, proporciona un horario dentrol horario establecido.
+    </div>
+
+
+    <br>
+    <label for="" class="form-label">Actividad</label>
+    <div>
+        <select class="form-select" aria-label="Default select example" name="Actividad" required>
+            <option selected disabled value="">Selecciona...</option>
+            <option value="Reunión">Reunión</option>
+            <option value="Evento">Evento</option>
+            <option value="Recordatorio">Recordatorio</option>
+            <option value="Otros">Otros</option>
+        </select>
+    </div>
+    <div class="invalid-tooltip">
+        Selecciona una categoria.
+    </div>
+
+
+    <br>
+    <label for="" class="form-label">Nota</label>
+    <div class="col-10">
+        <textarea type="text-area" class="form-control" value="" name="Nota" required></textarea>
+    </div>
+    <br>
+    <div class="invalid-feedback">
+        Por favor, proporciona una Nota.
+    </div>
+
+
+    <br>
+    <div>
+        <button class="btn btn-success" type="submit" name="aceptar">Aceptar</button>
+    </div>
+    <br>
+    <a class="btn btn-secondary" href="/Agenda/Agenda">Regresar</a>
+
+    <br>
+
+
+</form>
+<br>
+<br>
+<br>

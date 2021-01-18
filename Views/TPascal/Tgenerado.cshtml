@@ -1,0 +1,25 @@
+@{
+    ViewData["Title"] = "Triangulo";
+    //var x = ViewData["tpascalList"] as List;
+}
+@model List<EJERCICIOS.Models.TPascalVar>
+
+
+<p>Haz generado el triangulo con exito</p>
+<div style="display: flex; flex-flow: column; align-items: center;">
+
+    @foreach (var item in Model)
+    {
+        <div class="row">
+            <div class="col">
+                @foreach (var item2 in item.filas)
+                {
+
+                    @item2
+                }
+            </div>
+        </div>
+    }
+
+
+</div>

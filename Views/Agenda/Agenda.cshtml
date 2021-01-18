@@ -1,0 +1,58 @@
+@{
+    ViewData["Title"] = "Agenda de Actividades";
+}
+@model List<EJERCICIOS.Models.Agenda>
+
+<h1>@ViewData["Title"]</h1>
+<a class="btn btn-primary" asp-action="RegistroNuevo">Agregar Evento</a>
+<div>
+    <br>
+
+    <div style="padding: 70px;">
+        <table id="agenda" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Fecha</th>
+                    <th>Horario</th>
+                    <th>Actividad</th>
+                    <th>Nota</th>
+                </tr>
+            </thead>
+            <tbody id="agenda">
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @item.ID
+                        </td>
+                        <td>
+                            @item.Fecha
+                        </td>
+                        <td>
+                            @item.Horario
+                        </td>
+                        <td>
+                            @item.Actividad
+                        </td>
+                        <td>
+                            @item.Nota
+                        </td>
+                    </tr>
+                }
+            </tbody>
+
+            <tfoot>
+                <tr>
+                    <th>#</th>
+                    <th>Fecha</th>
+                    <th>Horario</th>
+                    <th>Actividad</th>
+                    <th>Nota</th>
+                </tr>
+            </tfoot>
+        </table>
+
+    </div>
+</div>

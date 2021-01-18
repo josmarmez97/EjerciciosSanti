@@ -1,0 +1,727 @@
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\appsettings.Development.json
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\appsettings.json
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.exe
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.deps.json
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.runtimeconfig.json
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.runtimeconfig.dev.json
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\ref\EJERCICIOS.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.pdb
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.Views.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.Views.pdb
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.csprojAssemblyReference.cache
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.GeneratedMSBuildEditorConfig.editorconfig
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.AssemblyInfoInputs.cache
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.AssemblyInfo.cs
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.csproj.CoreCompileInputs.cache
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.MvcApplicationPartsAssemblyInfo.cache
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.RazorAssemblyInfo.cache
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.RazorAssemblyInfo.cs
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\staticwebassets\EJERCICIOS.StaticWebAssets.Manifest.cache
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\staticwebassets\EJERCICIOS.StaticWebAssets.xml
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\scopedcss\bundle\EJERCICIOS.styles.css
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.TagHelpers.input.cache
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.TagHelpers.output.cache
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.RazorCoreGenerate.cache
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.RazorTargetAssemblyInfo.cache
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.RazorTargetAssemblyInfo.cs
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.Views.pdb
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\ref\EJERCICIOS.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.pdb
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.genruntimeconfig.cache
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.csproj.CopyComplete
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Calendario\Index.cshtml.g.cs
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\mscorlib.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\netstandard.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.AppContext.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Buffers.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Collections.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.ComponentModel.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Configuration.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Console.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Core.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Data.Common.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Data.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Drawing.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Globalization.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.Compression.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Linq.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Memory.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Http.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Mail.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Ping.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Requests.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Security.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Numerics.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.ObjectModel.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Claims.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Principal.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Text.Json.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Transactions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.ValueTuple.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Web.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Windows.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\refs\WindowsBase.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Personal Projects\Trabajo\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.MvcApplicationPartsAssemblyInfo.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\appsettings.Development.json
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\appsettings.json
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.exe
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.deps.json
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.runtimeconfig.json
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.runtimeconfig.dev.json
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\ref\EJERCICIOS.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.pdb
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\mscorlib.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\netstandard.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Collections.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Console.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Core.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Data.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Linq.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Memory.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Web.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Windows.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.Views.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\EJERCICIOS.Views.pdb
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.csprojAssemblyReference.cache
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.AssemblyInfoInputs.cache
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.AssemblyInfo.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.csproj.CoreCompileInputs.cache
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.MvcApplicationPartsAssemblyInfo.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.MvcApplicationPartsAssemblyInfo.cache
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.RazorAssemblyInfo.cache
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.RazorAssemblyInfo.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\staticwebassets\EJERCICIOS.StaticWebAssets.Manifest.cache
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\staticwebassets\EJERCICIOS.StaticWebAssets.xml
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\scopedcss\bundle\EJERCICIOS.styles.css
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.TagHelpers.input.cache
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.TagHelpers.output.cache
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.RazorCoreGenerate.cache
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Calendario\Index.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.RazorTargetAssemblyInfo.cache
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.RazorTargetAssemblyInfo.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.Views.pdb
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.csproj.CopyComplete
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\ref\EJERCICIOS.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.pdb
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\EJERCICIOS.genruntimeconfig.cache
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Calendario\Fechas.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\TPascal\Index.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\TPascal\Tgenerado.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Visitas\Index.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Visitas\Registrar.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Visitas\Editar.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Visitas\Eliminar.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Agenda\Agenda.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Agenda\RegistroNuevo.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Coockies\RegistroCoockies.cshtml.g.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\obj\Debug\net5.0\Razor\Views\Coockies\CreateCoockie.cshtml.g.cs

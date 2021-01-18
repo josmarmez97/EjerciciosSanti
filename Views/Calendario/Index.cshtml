@@ -1,0 +1,53 @@
+@{
+    ViewData["Title"] = "Calendario";
+}
+
+<div>
+    <h1>@ViewData["Title"]</h1>
+    <p>El sistema debe de generar los periodos de facturación de acuerdo a los parámetros
+        proporcionados.</p>
+</div>
+
+
+
+<form asp-action="Create">
+    <div class="f_Calendario">
+        <br>
+        <label for="" class="form-label">Fecha de Inicio</label>
+        <div class="col-10">
+            <input class="form-control" type="date" value="" name="FechaInicio" max=@ViewData["Fecha"] required>
+        </div>
+        <br>
+        <label for="" class="form-label">Fecha de Fin</label>
+        <div class="col-10">
+            <input class="form-control" type="date" value="" name="FechaFin" max="@ViewData["Fecha"]" required>
+        </div>
+        <br>
+        <label for="" class="form-label">Periodicidad</label>
+        <div>
+            <select class="form-select" aria-label="Default select example" name="Perio">
+                <option value="">Seleccionar</option>
+                <option value="1">Mensual</option>
+                <option value="2">Bimestral</option>
+                <option value="6">Semestra</option>
+                <option value="12">Anual</option>
+            </select>
+        </div>
+        <br>
+        <label for="" class="form-label">Día de Impresion</label>
+        <div class="col-10">
+            <input type="number" class="form-control" value="" name="DiaImp" required>
+        </div>
+        <br>
+        <label for="disabledTextInput" class="form-label">Día de Corte</label>
+        <div class="col-10">
+            <input type="number" class="form-control" value="" name="DiaCorte" required>
+        </div>
+        <br>
+        <div>
+            <button class="btn btn-warning" type="submit" name="aceptar">Aceptar</button>
+        </div>
+        <br>
+
+    </div>
+</form>
