@@ -27,7 +27,7 @@ using EJERCICIOS.Models;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0b0531487b6a5f58b0f6f7d9170d582a6e9be6e0", @"/Views/Visitas/Eliminar.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7acf65485bf692cbb42004d71179fafabfe5f90a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e03404e79ed1db81b77078870c18c9b3d042f6a0", @"/Views/_ViewImports.cshtml")]
     public class Views_Visitas_Eliminar : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

@@ -1,0 +1,192 @@
+@model EJERCICIOS.Models.SesionesyCookiesM
+@{
+    ViewBag.Title = "Index";
+    string politics = Convert.ToString(ViewData["politics"]);
+    string sports = Convert.ToString(ViewData["sports"]);
+    string cultural = Convert.ToString(ViewData["cultural"]);
+
+}
+
+
+<div>
+    <div>
+        <div class="text-leflt">
+            <i class="fas fa-cog"></i>@Html.ActionLink("Preferencias", "Settings", "SessionesyCookies")
+        </div>
+
+        <div class="text-right">
+            <i class="fas fa-sign-out-alt"></i>@Html.ActionLink("Salir", "LogOut", "SessionesyCookies")
+        </div>
+    </div>
+</div>
+@if (politics == "true")
+{
+    <div class="dropdown-divider"></div>
+    <div class="politics row">
+        <div class="row">
+            <h4>Política</h4>
+        </div>
+        <div class="row row-cols-3">
+            <div class="col-4">
+                <div class="card">
+                    <img src="https://www.elfinanciero.com.mx/uploads/2021/01/20/bb469043f71611180738_standard_desktop_medium_retina.webp"
+                        class="card-img-top" alt="..." />
+                    <div class="card-body border-secondary shadow-0">
+                        <h5 class="card-title">Aprueban Nueva LeyNoroña debe ofrecer disculpa pública por violencia política
+                            de genero contra diputada.</h5>
+                        <p class="card-text">
+                            La legisladora Adriana Dávila promovió el 10 de octubre de 2019 un juicio para la protección de
+                            los derechos político-electorales del ciudadano.
+                        </p>
+                        <a href="#!" class="btn rounded-circle">Ver Mas..</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card">
+                    <img src="https://assets.eleconomista.com.mx/__export/1611211841455/sites/eleconomista/img/2021/01/21/biden_toma_protesta.jpg_1093282975.jpg"
+                        class="card-img-top" alt="..." />
+                    <div class="card-body border-secondary shadow-0">
+                        <h5 class="card-title">Biden desmantela la política migratoria de Trump.</h5>
+                        <p class="card-text">
+                            El presidente ordena el congelamiento de la construcción del muro y da su apoyo a los dreamers
+                            protegiendo de la deportación a unos 650,000 indocumentados.
+                        </p>
+                        <a href="#!" class="btn rounded-circle">Ver Mas..</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card">
+                    <img src="https://energiahoy.com/wp-content/uploads/2021/01/industry-3302114_640.jpg"
+                        class="card-img-top" alt="..." />
+                    <div class="card-body border-secondary shadow-0">
+                        <h5 class="card-title">Política energética frena desarrollo en hidrocarburos</h5>
+                        <p class="card-text">
+                            La política que implementa el gobierno mexicano en el sector Energía, pausa indefinidamente la
+                            inversión en transportación y almacenamiento de combustibles
+                        </p>
+                        <a href="#!" class="btn rounded-circle">Ver Mas..</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+@if (sports == "true")
+{
+    <div class="sports row">
+        <div class="dropdown-divider"></div>
+        <div class="row">
+            <h4>Deportes</h4>
+        </div>
+        <div class="row row-cols-3">
+            <div class="col-4">
+                <div class="card">
+                    <img src="https://i.blogs.es/51326f/oysho_compressive-editorial-5-/1366_2000.jpeg" class="card-img-top"
+                        alt="..." />
+                    <div class="card-body border-secondary shadow-0">
+                        <h5 class="card-title">Oysho lanza su nueva colección deportiva centrada en los deportes de medio y
+                            alto impacto</h5>
+                        <p class="card-text">
+                            Marcas como Oysho lo saben y, por eso, han lanzado su nueva colección centrada en las
+                            necesidades que tenemos al practicar deportes de medio y alto impacto, a la que han llamado
+                            Compressive.
+                        </p>
+                        <a href="#!" class="btn rounded-circle">Ver Mas..</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card">
+                    <img src="https://agpnoticias.com/news/wp-content/uploads/2021/01/IMG_5537.jpg" class="card-img-top"
+                        alt="..." />
+                    <div class="card-body border-secondary shadow-0">
+                        <h5 class="card-title">Registro Único del Deporte entregado al alcalde Ayala</h5>
+                        <p class="card-text">
+                            El presidente Armando Ayala Robles recibió el Registro Único del Deporte de Ensenada ante el
+                            Sistema Nacional del Deporte
+                        </p>
+                        <a href="#!" class="btn rounded-circle">Ver Mas..</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card">
+                    <img src="https://www.eltiempo.com/files/article_main/uploads/2020/12/12/5fd51e22e5405.jpeg"
+                        class="card-img-top" alt="..." />
+                    <div class="card-body border-secondary shadow-0">
+                        <h5 class="card-title">¡No para la cosa! Figura del Manchester City, positivo por la covid-19</h5>
+                        <p class="card-text">
+                            El delantero del Manchester City Sergio ‘Kun’ Agüero anunció este jueves que ha dado positivo en
+                            un test de covid-19, tras haber desarrollado síntomas de la enfermedad.
+                        </p>
+                        <a href="#!" class="btn rounded-circle">Ver Mas..</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+@if (cultural == "true")
+{
+    <div class="cultural row">
+        <div class="dropdown-divider"></div>
+        <div class="row">
+            <h4>Cultura</h4>
+        </div>
+        <div class="row row-cols-3">
+            <div class="col-4">
+                <div class="card">
+                    <img src="https://www.elsoldemexico.com.mx/mexico/7q78pz-protesta-trabajadores-inah.jpeg/alternates/LANDSCAPE_768/protesta%20trabajadores%20inah.jpeg"
+                        class="card-img-top" alt="..." />
+                    <div class="card-body border-secondary shadow-0">
+                        <h5 class="card-title">Se reúnen sindicatos y autoridades de Cultura.</h5>
+                        <p class="card-text">
+                            La Secretaría de Cultura federal y representantes de 17 de los sindicatos del sector central y
+                            de los organismos desconcentrados se reunieron de manera virtual este miércoles para trabajar en
+                            temas como las condiciones laborales, el presupuesto, la reconstrucción, la atención al
+                            patrimonio, entre otros.
+                        </p>
+                        <a href="#!" class="btn btn-rounded btn-dark">Ir a la nota completa</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card">
+                    <img src="https://imagenes.elpais.com/resizer/DXGhLCIhytxEt-W2DBCW5qIkRco=/450x600/filters:focal(366x845:376x855)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/NZARERD6XSDKYGKBBX6HRLT3FQ.jpg"
+                        class="card-img-top" alt="..." />
+                    <div class="card-body border-secondary shadow-0">
+                        <h5 class="card-title">Pilar Quintana gana el Premio Alfaguara de novela</h5>
+                        <p class="card-text">
+                            La escritora colombiana Pilar Quintana (Cali, 49 años) ha sido galardonada con el 24º Premio
+                            Alfaguara de novela,
+                        </p>
+                        <a href="#!" class="btn btn-rounded btn-dark">Ir a la nota completa</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card">
+                    <img src="https://assets.eleconomista.com.mx/__export/1611028183375/sites/eleconomista/img/2021/01/18/sergio_gomez_tagle_01.jpg_1207551428.jpg"
+                        class="card-img-top" alt="..." />
+                    <div class="card-body border-secondary shadow-0">
+                        <h5 class="card-title">La cultura deberá ser motor de la recuperación económica</h5>
+                        <p class="card-text">
+                            Las expresiones culturales generan cohesión social y recirculación del capital, “ya no pueden
+                            seguir dependiendo de los presupuestos institucionales”, reflexiona en mercadólogo cultural
+                            Sergio Gómez Tagle, CEO de Grupo AdVerb.
+                        </p>
+                        <a href="#!" class="btn btn-rounded btn-dark">Ir a la nota completa</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+
+<br>
+<br>
+<br>
+<br>

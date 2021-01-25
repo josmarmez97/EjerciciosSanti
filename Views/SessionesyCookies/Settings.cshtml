@@ -1,0 +1,64 @@
+@{
+    ViewBag.Title = "Settings";
+    string politics = Convert.ToString(ViewData["politics"]);
+    string sports = Convert.ToString(ViewData["sports"]);
+    string cultural = Convert.ToString(ViewData["cultural"]);
+
+
+}
+
+<div class="text-center">
+    <h2>Configuracion de visualización</h2>
+</div>
+
+<div class="text-center">
+    @using (Html.BeginForm("NuevaConfig", "SessionesyCookies", FormMethod.Post))
+    {
+        <div class="col">
+
+            <div>
+                @if (politics == "true")
+                {
+                    <input type="checkbox" id="politics" name="politics" value="true" checked />
+                    <label for="politics"> Política </label>
+                }
+                else
+                {
+                    <input type="checkbox" id="politics" name="politics" value="true" />
+                    <label for="politics"> Política </label>
+                }
+
+            </div>
+            <div>
+                @if (sports == "true")
+                {
+                    <input type="checkbox" id="sports" name="sports" value="true" checked />
+                    <label for="sports"> Deportes </label>
+                }
+                else
+                {
+                    <input type="checkbox" id="sports" name="sports" value="true" />
+                    <label for="sports"> Deportes </label>
+                }
+
+            </div>
+            <div>
+                @if (cultural == "true")
+                {
+                    <input type="checkbox" id="cultural" name="cultural" value="true" checked />
+                    <label for="cultural"> Cultura </label>
+                }
+                else
+                {
+                    <input type="checkbox" id="cultural" name="cultural" value="true" />
+                    <label for="cultural"> Cultura </label>
+                }
+            </div>
+        </div>
+
+
+        <div class="col">
+            <input type="submit" value="Guardar" class="btn btn-primary" />
+        </div>
+    }
+</div>

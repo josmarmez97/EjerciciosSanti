@@ -1,0 +1,47 @@
+@{
+    ViewData["Title"] = "Captchat";
+    // string mostrar = ViewBag.mostrar;
+    string captchaText = ViewBag.captchaText;
+    //var x = "hidden";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="col">
+
+    <label for="" class="label-control">Verificar valor de la imagen siguiente:</label>
+    <div class="col-6" style="border: 1px solid white">
+        <img src='@ViewBag.src' alt="captchat" />
+    </div>
+    <br>
+    <input type="text" class="form-control" id="userText" maxlength="6">
+    <br>
+
+    <br>
+    <div class="alert alert-success" role="alert" id="validador" hidden>
+        <h4 class="alert-heading">Felicidades!!!</h4>
+        <p>Has decifrado el captchat</p>
+        <hr>
+    </div>
+    <br>
+    <br>
+    <a href="/Captcha/VerCaptcha" id="regresar" class="btn btn-secondary" hidden>Nuevo</a>
+</div>
+
+<script>
+    document.getElementById("userText").addEventListener("keyup", validar);
+    function validar(event) {
+        var entrada = document.getElementById("userText").value;
+        if (entrada == "@captchaText") {
+            document.getElementById("regresar").hidden = false;
+            document.getElementById("validador").hidden = false;
+            document.getElementById("userText").disabled = true;
+        }
+    };
+</script>
+
+
+<br>
+<br>
+<br>
+<br>

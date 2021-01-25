@@ -1,0 +1,17 @@
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\bin\Debug\netcoreapp1.0\appsettings.Development.json
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\bin\Debug\netcoreapp1.0\appsettings.json
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\bin\Debug\netcoreapp1.0\bower.json
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\bin\Debug\netcoreapp1.0\bundleconfig.json
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\bin\Debug\netcoreapp1.0\t_api-captcha-mvccore1-aspnetcore.identity.deps.json
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\bin\Debug\netcoreapp1.0\t_api-captcha-mvccore1-aspnetcore.identity.runtimeconfig.json
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\bin\Debug\netcoreapp1.0\t_api-captcha-mvccore1-aspnetcore.identity.runtimeconfig.dev.json
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\bin\Debug\netcoreapp1.0\t_api-captcha-mvccore1-aspnetcore.identity.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\bin\Debug\netcoreapp1.0\t_api-captcha-mvccore1-aspnetcore.identity.pdb
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\obj\Debug\netcoreapp1.0\t_api-captcha-mvccore1-aspnetcore.identity.csprojAssemblyReference.cache
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\obj\Debug\netcoreapp1.0\t_api-captcha-mvccore1-aspnetcore.identity.AssemblyInfoInputs.cache
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\obj\Debug\netcoreapp1.0\t_api-captcha-mvccore1-aspnetcore.identity.AssemblyInfo.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\obj\Debug\netcoreapp1.0\t_api-captcha-mvccore1-aspnetcore.identity.csproj.CoreCompileInputs.cache
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\obj\Debug\netcoreapp1.0\t_api-captcha-mvccore1-aspnetcore.identity.dll
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\obj\Debug\netcoreapp1.0\t_api-captcha-mvccore1-aspnetcore.identity.pdb
+D:\Trabajo\Capacitacion\C#\EJERCICIOS\bin\Debug\net5.0\v4.4.2\core-on-core\examples\t_api-captcha-mvccore1-aspnetcore.identity\obj\Debug\netcoreapp1.0\t_api-captcha-mvccore1-aspnetcore.identity.genruntimeconfig.cache

@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net461</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="botdetect.xml">
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+<ItemGroup>
+    <None Include="wwwroot\**\*">
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="wwwroot\node_modules\jquery-captcha\bower.json" />
+    <Content Include="wwwroot\node_modules\jquery-captcha\package.json" />
+    <Content Include="wwwroot\node_modules\jquery\jquery.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.2.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CAPTCHA.asp.net.core.on.legacy.net.frameworks" Version="4.4.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\node_modules\jquery-captcha\.gitignore" />
+    <None Include="wwwroot\node_modules\jquery-captcha\dist\jquery-captcha.min.js" />
+    <None Include="wwwroot\node_modules\jquery-captcha\dist\jquery-captcha.min.js.map" />
+    <None Include="wwwroot\node_modules\jquery-captcha\Gruntfile.js" />
+    <None Include="wwwroot\node_modules\jquery-captcha\npmjs_readme.markd" />
+    <None Include="wwwroot\node_modules\jquery-captcha\README.md" />
+    <None Include="wwwroot\node_modules\jquery-captcha\src\jquery-captcha.js" />
+  </ItemGroup>
+
+</Project>

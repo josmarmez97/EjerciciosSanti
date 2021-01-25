@@ -1,0 +1,46 @@
+@{
+    ViewData["Title"] = "Captchat";
+
+    string captchaText = ViewBag.captchaText;
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@*
+    @if (mostrar == 0)
+    {
+    <div class="col">
+    <form asp-action="ExampleAction" method="POST">
+    <label asp-for="CaptchaCode">Escribe los caracteres que vez:</label>
+    <captcha id="ExampleCaptcha" user-input-id="CaptchaCode" />
+    <br>
+    <div class="actions">
+    <input asp-for="CaptchaCode" />
+    <input type="submit" value="Validate" />
+    <br>
+    <span asp-validation-for="CaptchaCode"></span>
+    @if ((Context.Request.Method == "POST") && ViewData.ModelState.IsValid)
+    {
+    <br>
+    <span class="correct">Correct!</span>
+    }
+    </div>
+    </form>
+    </div>
+    }
+*@
+
+
+<div class="col">
+    <form asp-action="CrearCaptcha" method="POST">
+        <select class="form-select" name="Opciones" aria-label="Default select example">
+            <option disabled selected>Selecciona</option>
+            <option value="1">Letras</option>
+            <option value="2">Números</option>
+            <option value="0">Mixto</option>
+        </select>
+        <br>
+        <br>
+        <button type="submit" class="btn btn-warning">Generar</button>
+    </form>
+</div>

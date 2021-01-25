@@ -5,6 +5,25 @@ $(document).on("keydown keyup", "#TiempoS", function(event) {
     }
 });
 
+document.getElementById("Nombre").addEventListener("keydown", teclear);        
+document.getElementById("Correo").addEventListener("keydown", teclear);
+
+document.getElementsByName("UsuarioS").addEventListener("keydown", teclear);
+
+document.getElementsByName("Depto").addEventListener("keydown", teclear);
+
+document.getElementsByName("Colonia").addEventListener("keydown", teclear);
+
+document.getElementsByName("Calle").addEventListener("keydown", teclear);
+
+document.getElementsByName("CPostal").addEventListener("keydown", teclear);
+
+document.getElementsByName("Ciudad").addEventListener("keydown", teclear);
+
+document.getElementsByName("Estado").addEventListener("keydown", teclear);
+
+document.getElementsByName("Tel").addEventListener("keydown", teclear);
+
 function soloLetras(e) 
                 {                                        
                         key = e.keyCode || e.which;
@@ -66,10 +85,7 @@ function soloCorreo(e)
                 };                
 
 
-document.getElementById("Nombre").addEventListener("keydown", teclear);        
-document.getElementById("Correo").addEventListener("keydown", teclear);
 
-document.getElementsByName("UsuarioS").addEventListener("keydown", teclear);
  
  var flag = false;
             var teclaAnterior = "";

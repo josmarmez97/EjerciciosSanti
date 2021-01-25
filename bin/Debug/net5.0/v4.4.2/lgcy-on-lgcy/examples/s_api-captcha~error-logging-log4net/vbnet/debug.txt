@@ -1,0 +1,108 @@
+2019-04-18 14:23:08,147 [8] BotDetect.Logging.Log4NetLoggingProvider - 
+
+DEBUG GeneratingCaptchaImage
+GeneratingSimpleCaptchaImageEventArgs {
+  captcha style name: ExampleCaptcha
+  captcha id: 49444cd3fd5043dc8c184e6177b568cc
+}
+
+2019-04-18 14:23:08,262 [8] BotDetect.Logging.Log4NetLoggingProvider - 
+
+DEBUG GeneratingCaptchaCode
+GeneratingSimpleCaptchaCodeEventArgs {
+  captcha style name: ExampleCaptcha
+  captcha id: 49444cd3fd5043dc8c184e6177b568cc
+}
+
+2019-04-18 14:23:08,379 [8] BotDetect.Logging.Log4NetLoggingProvider - 
+
+DEBUG GeneratedCaptchaCode
+GeneratedSimpleCaptchaCodeEventArgs {
+  captcha style name: ExampleCaptcha
+  captcha id: 49444cd3fd5043dc8c184e6177b568cc
+  generation purpose: ImageGeneration
+  code style: Alphanumeric
+  code length: 4
+  generated code: wzc9Gmg9VeJ0iyYB9aBGIi/kZTzgXJ3KPi0XaJGziIqPI+FYmbMSrPMoQuenpJVr9lBangv+McPZ5VAtu3euvs/6uMhy3wi9ZXU/iQO7zlg=
+}
+
+2019-04-18 14:23:08,581 [8] BotDetect.Logging.Log4NetLoggingProvider - 
+
+DEBUG GeneratedCaptchaImage
+GeneratedSimpleCaptchaImageEventArgs {
+  captcha style name: ExampleCaptcha
+  captcha id: 49444cd3fd5043dc8c184e6177b568cc
+  image style: Chalkboard
+  image format: Jpeg
+  image size: { width: 250, height: 50 }
+  custom light color: null
+  custom dark color: null
+  generated image bytes: 6499
+}
+
+2019-04-18 14:23:11,914 [8] BotDetect.Logging.Log4NetLoggingProvider - 
+
+DEBUG ValidatingUserInput
+SimpleValidatingUserInputEventArgs {
+  captcha style name: ExampleCaptcha
+  captcha id: 9442bf96544f44a6a24913255cd4217c
+  validating captcha id: af31725f591d4403be9c4db396cb738b
+  validation origin: Server
+  user input: empty string
+}
+
+2019-04-18 14:23:11,985 [8] BotDetect.Logging.Log4NetLoggingProvider - 
+
+DEBUG ValidatedUserInput
+SimpleValidatedUserInputEventArgs {
+  captcha style name: ExampleCaptcha
+  captcha id: 9442bf96544f44a6a24913255cd4217c
+  stored code: null
+  validating captcha id: af31725f591d4403be9c4db396cb738b
+  validation origin: Server
+  user input: empty string
+  validation result: False
+}
+
+2019-04-18 14:23:12,127 [10] BotDetect.Logging.Log4NetLoggingProvider - 
+
+DEBUG GeneratingCaptchaImage
+GeneratingSimpleCaptchaImageEventArgs {
+  captcha style name: ExampleCaptcha
+  captcha id: d2618ba74d014ebfbfd3406d58b21720
+}
+
+2019-04-18 14:23:12,163 [10] BotDetect.Logging.Log4NetLoggingProvider - 
+
+DEBUG GeneratingCaptchaCode
+GeneratingSimpleCaptchaCodeEventArgs {
+  captcha style name: ExampleCaptcha
+  captcha id: d2618ba74d014ebfbfd3406d58b21720
+}
+
+2019-04-18 14:23:12,193 [10] BotDetect.Logging.Log4NetLoggingProvider - 
+
+DEBUG GeneratedCaptchaCode
+GeneratedSimpleCaptchaCodeEventArgs {
+  captcha style name: ExampleCaptcha
+  captcha id: d2618ba74d014ebfbfd3406d58b21720
+  generation purpose: ImageGeneration
+  code style: Alphanumeric
+  code length: 4
+  generated code: Z1bLMzBYkiF3vfnlEqEiHJHKVBrlfXTlj/yJAf6rlDrWXPZDx5JcluukUsAOrcMPcGeZ2E5NfFEVu8aUyfAmbTru3/PZF98BY6TCWTNtMcE=
+}
+
+2019-04-18 14:23:12,222 [10] BotDetect.Logging.Log4NetLoggingProvider - 
+
+DEBUG GeneratedCaptchaImage
+GeneratedSimpleCaptchaImageEventArgs {
+  captcha style name: ExampleCaptcha
+  captcha id: d2618ba74d014ebfbfd3406d58b21720
+  image style: ThinWavyLetters
+  image format: Jpeg
+  image size: { width: 250, height: 50 }
+  custom light color: null
+  custom dark color: null
+  generated image bytes: 6005
+}
+

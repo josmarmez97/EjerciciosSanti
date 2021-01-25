@@ -1,0 +1,33 @@
+﻿@using Mvc50CaptchaExampleCSharp.Models;
+@using Microsoft.AspNet.Identity;
+@{
+    ViewBag.Title = "Manage Account";
+}
+@* include BotDetect layout stylesheet in page <head> *@
+@section HeadIncludes {
+    <link href="@BotDetect.Web.CaptchaUrls.Absolute.LayoutStyleSheetUrl" rel="stylesheet" type="text/css" />
+}
+<h2>@ViewBag.Title.</h2>
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div class="row">
+    <div class="col-md-12">
+        @if (ViewBag.HasLocalPassword)
+        {
+            @Html.Partial("_ChangePasswordPartial")
+        }
+        else
+        {
+            @Html.Partial("_SetPasswordPartial")
+        }
+
+        <section id="externalLogins">
+            @Html.Action("RemoveAccountList")
+            @Html.Partial("_ExternalLoginsListPartial", new { Action = "LinkLogin", ReturnUrl = ViewBag.ReturnUrl })
+        </section>
+    </div>
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/Scripts/captcha.validate.js")
+}

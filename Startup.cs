@@ -1,10 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using BotDetect.Web;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Server.Kestrel.Core;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -23,17 +21,40 @@ namespace EJERCICIOS
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
+
             services.AddControllersWithViews();
             services
                     .AddControllersWithViews()
                     .AddRazorRuntimeCompilation();
 
-            services.AddDistributedMemoryCache();
+            services.AddMemoryCache();
+            services.AddRazorPages();
+            services.AddMvc();
+            // Add Session services.
             services.AddSession(options =>
             {
-                options.IdleTimeout = TimeSpan.FromMinutes(1);//You can set Time   
+                options.IdleTimeout = System.TimeSpan.FromMinutes(20);
+                options.Cookie.IsEssential = true;
             });
-            services.AddMvc();
+
+            // If using Kestrel:
+            services.Configure<KestrelServerOptions>(options =>
+            {
+                options.AllowSynchronousIO = true;
+            });
+
+            // If using IIS:
+            services.Configure<IISServerOptions>(options =>
+            {
+                options.AllowSynchronousIO = true;
+            });
+
+
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -50,13 +71,16 @@ namespace EJERCICIOS
                 app.UseHsts();
             }
 
+            app.UseSession();
+
+            // configure your application pipeline to use Captcha middleware
+            // Important! UseCaptcha(...) must be called after the UseSession() call
+            app.UseCaptcha(Configuration);
 
             //app.UseHttpsRedirection();
             app.UseStaticFiles();
 
             app.UseRouting();
-
-            app.UseSession();
 
             app.UseAuthorization();
 

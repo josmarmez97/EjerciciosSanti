@@ -1,0 +1,43 @@
+﻿
+
+.column {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.note {
+  margin: 10px 10px 20px 10px;
+  width: 432px;
+}
+
+.note p {
+  font-size: 12px;
+}
+
+.note ul {
+  margin: 5px 0 5px 0; 
+  padding-left: 25px; 
+  list-style-type: disc;
+}
+
+.note li {
+  font-size: 12px;
+  margin: 0 0 5px 0;
+}
+
+
+
+#systeminfo {
+  margin: 25px 20px 20px 10px;
+  padding: 0 10px;
+  border: 1px solid #ddd;
+  clear: both;
+  font-size: 11px;
+  color: #999;
+  background-color: #f0f0f0;
+}
+
+#systeminfo  p {
+  margin: 10px 0;
+  padding: 0;
+}
